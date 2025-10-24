@@ -12,7 +12,7 @@
 - I’m currently working on **Web3 and multiplayer game projects**
 - I’m exploring **Next.js, Solidity, TypeScript, and React**
 - I’m open to collaborating on **blockchain or Web3-based game systems**
-- My portfolio: (https://gentlix-bcgame.vercel.app)
+- My portfolio: https://gentlix-bcgame.vercel.app, https://gentlix-fullstack.vercel.app
 - Reach me at **bylava995@gmail.com**
 - Experienced in **building DApps, NFT/FT marketplaces, and real-time multiplayer systems**
 
