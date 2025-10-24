@@ -12,28 +12,9 @@
 - I’m currently working on **Web3 and multiplayer game projects**
 - I’m exploring **Next.js, Solidity, TypeScript, and React**
 - I’m open to collaborating on **blockchain or Web3-based game systems**
-- My portfolio: [gentlix.github.io](https://gentlix.github.io)
+- My portfolio: (https://gentlix-bcgame.vercel.app)
 - Reach me at **bylava995@gmail.com**
 - Experienced in **building DApps, NFT/FT marketplaces, and real-time multiplayer systems**
-
----
-
-### Professional Summary
-
-Senior Blockchain & Multiplayer Game Developer with extensive experience in building decentralized applications (DApps), NFT/FT marketplaces, wallets, and real-time multiplayer games across web, mobile, and desktop platforms. Skilled in **smart contracts, tokenomics, cross-platform deployment,** and **real-time networking**, delivering scalable and secure Web3 and gaming ecosystems.
-
----
-
-### Technical Skills
-
-**Blockchain & Web3:** NFT/FT marketplaces, tokens, smart contracts (Solidity, Rust), wallets, DApps  
-**Game Engines:** Unity (2D/3D), Roblox Studio, Phaser.js, Pixi.js  
-**Networking:** Socket.io, WebRTC, matchmaking, real-time synchronization  
-**Languages:** C#, JavaScript, TypeScript, Python, Node.js  
-**Frontend / Backend:** React, Angular, Django  
-**Databases / Tools:** MongoDB, MySQL, Firebase, Git, Docker, AWS  
-**Automation:** Crypto trading bots, automated market analysis  
-**Cross-Platform:** Web, Mobile, Desktop  
 
 ---
 
