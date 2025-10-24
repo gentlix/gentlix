@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Gentlix</h1>
+<h1 align="center">Hi 👋, I'm Blava</h1>
 <h3 align="center">Senior Blockchain & Multiplayer Game Developer - Building the Future of Web3 & Gaming</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
+<p align="center">
+  <img alt="Coding GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400"/>
+</p>
 
 ---
 
 ## 👨‍💻 Professional Summary
-Senior Blockchain & Multiplayer Game Developer with extensive experience in building decentralized applications (DApps), NFT/FT marketplaces, wallets, and real-time multiplayer games across web, mobile, and desktop platforms. Skilled in smart contracts, tokenomics, cross-platform deployment, and real-time networking, delivering scalable and secure solutions for Web3 and gaming ecosystems.
+Senior Blockchain & Multiplayer Game Developer with extensive experience in building decentralized applications (DApps), NFT/FT marketplaces, wallets, and real-time multiplayer games across web, mobile, and desktop platforms. Skilled in smart contracts, tokenomics, cross-platform deployment, and real-time networking, delivering **scalable and secure solutions** for Web3 and gaming ecosystems.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Blockchain & Web3:** NFT/FT marketplaces, tokens, smart contracts (Solidity, Rust), wallets, decentralized applications (DApps)  
+**Blockchain & Web3:** NFT/FT marketplaces, tokens, smart contracts (Solidity, Rust), wallets, DApps  
 **Game Engines & Frameworks:** Unity (2D/3D), Roblox Studio, Phaser.js, Pixi.js  
 **Multiplayer & Networking:** Socket.io, WebRTC, real-time synchronization, matchmaking, chat systems  
 **Programming Languages:** C#, JavaScript, TypeScript, Python, Node.js  
@@ -23,17 +26,26 @@ Senior Blockchain & Multiplayer Game Developer with extensive experience in buil
 ---
 
 ## 🔭 Current Work
-- Developing **Web3 projects** and real-time multiplayer games
-- Creating decentralized solutions and NFT marketplaces
-- Building cross-platform apps for Web, Mobile, and Desktop
+- Developing **Web3 projects** and real-time multiplayer games  
+- Creating decentralized solutions and NFT marketplaces  
+- Building cross-platform apps for Web, Mobile, and Desktop  
 
 ---
 
 ## 📫 Contact Me
-- Email: **bylava995@gmail.com**  
-- WhatsApp: **[+380989531651](https://wa.me/380989531651)**  
-- Telegram: **[@fullstackdev513](https://t.me/fullstackdev513)**  
-- Portfolio: [blava.github.io](https://blava.github.io)  
+<p align="left">
+  <a href="mailto:bylava995@gmail.com"><img src="https://img.shields.io/badge/Email-byblava995@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://wa.me/380989531651"><img src="https://img.shields.io/badge/WhatsApp-+380989531651-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
+  <a href="https://t.me/fullstackdev513"><img src="https://img.shields.io/badge/Telegram-@fullstackdev513-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
+  <a href="https://blava.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/yanny-nguyen" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/></a>
+</p>
 
 ---
 
