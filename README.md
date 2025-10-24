@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm BobaPhoEver</h1>
-<h3 align="center">A passionate developer who recently transitioned from the military to the civilian sector</h3>
+<h1 align="center">Hi 👋, I'm Gentlix</h1>
+<h3 align="center">Senior Blockchain & Multiplayer Game Developer - Building the Future of Web3 & Gaming</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🔭 I’m currently working on **Web3 projects**
 
-- 🌱 I’m currently learning **Next.js, Solidity, TypeScript, and React**
+- 🌱 I’m great developer on **Next.js, Solidity, TypeScript, and React**
 
 - 👯 I’m looking to collaborate on **any blockchain or Web3 related projects**
 
-- 👨‍💻 All of my projects are available at [bobaphoever.github.io](https://bobaphoever.github.io)
+- 👨‍💻 All of my projects are available at [gentlix.github.io](https://gentlix.github.io)
 
-- 📫 How to reach me **yannynguyen@gmail.com**
+- 📫 How to reach me **bylava995@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
