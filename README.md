@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gentlix</h1>
+<h1 align="center">Hi, I'm Gentlix</h1>
 <h3 align="center">Senior Blockchain & Multiplayer Game Developer - Building the Future of Web3 & Gaming</h3>
 
 <p align="center">
@@ -7,12 +7,12 @@
 
 ---
 
-## 👨‍💻 Professional Summary
-Senior Blockchain & Multiplayer Game Developer with extensive experience in building decentralized applications (DApps), NFT/FT marketplaces, wallets, and real-time multiplayer games across web, mobile, and desktop platforms. Skilled in smart contracts, tokenomics, cross-platform deployment, and real-time networking, delivering **scalable and secure solutions** for Web3 and gaming ecosystems.
+## Professional Summary
+Senior Blockchain & Multiplayer Game Developer with extensive experience in building decentralized applications (DApps), NFT/FT marketplaces, wallets, and real-time multiplayer games across web, mobile, and desktop platforms. Skilled in smart contracts, tokenomics, cross-platform deployment, and real-time networking, delivering scalable and secure solutions for Web3 and gaming ecosystems.
 
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Blockchain & Web3:** NFT/FT marketplaces, tokens, smart contracts (Solidity, Rust), wallets, DApps  
 **Game Engines & Frameworks:** Unity (2D/3D), Roblox Studio, Phaser.js, Pixi.js  
@@ -25,24 +25,24 @@ Senior Blockchain & Multiplayer Game Developer with extensive experience in buil
 
 ---
 
-## 🔭 Current Work
-- Developing **Web3 projects** and real-time multiplayer games  
+## Current Work
+- Developing Web3 projects and real-time multiplayer games  
 - Creating decentralized solutions and NFT marketplaces  
 - Building cross-platform apps for Web, Mobile, and Desktop  
 
 ---
 
-## 📫 Contact Me
+## Contact
 <p align="left">
   <a href="mailto:bylava995@gmail.com"><img src="https://img.shields.io/badge/Email-byblava995@gmail.com-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://wa.me/380989531651"><img src="https://img.shields.io/badge/WhatsApp-+380989531651-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp"></a>
   <a href="https://t.me/fullstackdev513"><img src="https://img.shields.io/badge/Telegram-@fullstackdev513-blue?style=for-the-badge&logo=telegram" alt="Telegram"></a>
-  <a href="https://blava.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
+  <a href="https://gentlix.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=firefox" alt="Portfolio"></a>
 </p>
 
 ---
 
-## 💻 Languages & Tools
+## Languages & Tools
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
