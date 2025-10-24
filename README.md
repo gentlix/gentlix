@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Blava</h1>
+<h1 align="center">Hi 👋, I'm Gentlix</h1>
 <h3 align="center">Senior Blockchain & Multiplayer Game Developer - Building the Future of Web3 & Gaming</h3>
 
 <p align="center">
