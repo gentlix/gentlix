@@ -7,7 +7,7 @@
  -->
 ---
 
-### About Me
+### 
 
 - I’m currently working on **Web3 and multiplayer game projects**
 - I’m exploring **Next.js, Solidity, TypeScript, and React**
@@ -18,7 +18,7 @@
 
 ---
 
-### Current Work
+### 
 
 - Developing **Web3 projects** and **real-time multiplayer games**  
 - Creating **NFT marketplaces** and **decentralized platforms**  
