@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Gentlix</h1>
 <h3 align="center">Senior Blockchain & Multiplayer Game Developer — Building the Future of Web3 & Gaming</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="400" alt="Coding GIF"/>
 </p>
-
+ -->
 ---
 
 ### About Me
